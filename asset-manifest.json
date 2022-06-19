@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/New-land/static/css/main.03756773.css",
+    "main.js": "/New-land/static/js/main.bce75852.js",
+    "static/media/Men2.jpg": "/New-land/static/media/Men2.cd93aa22c853e82ccba7.jpg",
+    "static/media/Men1.jpg": "/New-land/static/media/Men1.a2e7559e2789bcaf85c6.jpg",
+    "static/media/Girl.jpg": "/New-land/static/media/Girl.a8d63ebc2ab0b4795e38.jpg",
+    "static/media/logo.png": "/New-land/static/media/logo.0ad95d091e0f0c2fc5a8.png",
+    "static/media/middle.svg": "/New-land/static/media/middle.f9856b25c308a044e3910ad8c0727c25.svg",
+    "index.html": "/New-land/index.html",
+    "main.03756773.css.map": "/New-land/static/css/main.03756773.css.map",
+    "main.bce75852.js.map": "/New-land/static/js/main.bce75852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03756773.css",
+    "static/js/main.bce75852.js"
+  ]
+}
